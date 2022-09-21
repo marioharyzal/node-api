@@ -1,7 +1,5 @@
 <h3 align="center">RESTful APi using Node JS</h3>
 
-<div align="center">
-
 ---
 
 ## 📝 Table of Contents

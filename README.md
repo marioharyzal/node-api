@@ -15,9 +15,9 @@ Repo ini merupakan aplikasi CRUD RESTful API pemain game sederhana yang mengguna
 
 ### Installing and Run <a name = "installing"></a>
 
--   Clone repo di local computer.
+-   Clone repo di local komputer.
 -   Run command "node index" / "node ." di terminal.
--   Buka app response client API seperti postmen atau yang lainnya.
+-   Buka app response client API seperti postman atau yang lainnya.
 -   masukkan alamat berikut pada app response client API
     -   http://localhost:3000/api/team -> GET, mengambil semua player.
     -   http://localhost:3000/api/team/:id -> GET, mengambil 1 player.

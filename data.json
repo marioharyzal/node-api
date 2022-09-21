@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Mario Haryzal", "role": "Tank" },
+    { "id": 5, "name": "saber", "role": "jungler" },
+    { "id": 6, "name": "belerick", "role": "tank" },
+    { "id": 7, "name": "queen", "role": "tank" },
+    { "id": 3, "name": "queen2", "role": "tank" },
+    { "id": 8, "name": "Rafaela", "role": "tank" }
+]
